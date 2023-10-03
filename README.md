@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![Nana](https://discord-readme-badge.vercel.app/api?id=<LoveMe~#4386>)
+![Nana](https://discord-readme-badge.vercel.app/api?id=<#4386>)
   </a>
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>

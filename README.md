@@ -64,11 +64,11 @@ Já cursei design gráfico profissional e no momento estou cursando o tecnólogo
   </div>
 <br>
 <p align="center">Aqui estão algumas das minhas redes sociais! <3</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+  Em construção! ;-;
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">🤍 ~ 𝒪𝒷𝓇𝒾𝑔𝒶𝒹𝑜 𝓅𝑜𝓇 𝓁𝑒𝓇 𝒶𝓉𝑒 𝒶𝓆𝓊𝒾! ~ 🤍</h2>
 <div align="center">
 <img src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
 </div>

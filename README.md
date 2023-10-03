@@ -7,9 +7,9 @@
 <p align="center">
 
 - **Hobbies**:
-- Ler
-- Jogar
-- Codar
+  Ler
+  Jogar
+  Codar
 <img src="https://64.media.tumblr.com/11fa4eeb8c5de4381545b21faa3341bb/199b97742d0b70b4-6d/s250x400/aec01f01d29fa7e9f14f00d9b8817ad6ad761f16.pnj">
 
 

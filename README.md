@@ -10,7 +10,7 @@
   Ler
   Jogar
   Codar
-<img src="https://64.media.tumblr.com/11fa4eeb8c5de4381545b21faa3341bb/199b97742d0b70b4-6d/s250x400/aec01f01d29fa7e9f14f00d9b8817ad6ad761f16.pnj">
+<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
 
 
 <!--

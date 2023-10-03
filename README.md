@@ -1,6 +1,6 @@
 <h1 align="center">Oi! Eu sou a Nalanda! ♡ ୨୧ @NandaB27 </h1>
 <h3 align="center"></h3>
-<img src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
+<img align="center" src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
 
 <br>
 

@@ -1,3 +1,9 @@
+<h1 align="center">Oi! Eu sou a Nalanda! ♡ ୨୧ @NandaB27 </h1>
+<h3 align="center"></h3>
+<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
+
+<br>
+
 ### Hi there 👋
 
 <!--

@@ -37,22 +37,24 @@
 </div>
 <img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝒞𝑜𝓃𝒽𝑒𝒸𝒾𝓂𝑒𝓃𝓉𝑜𝓈 📇 ~</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/564x/63/5b/f9/635bf9d4e900d12ceab39341091f3181.jpg" align="right">
   </div>
 </div>
 <div>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br><br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
-</p>
+Fluente em inglês
+Intermediário em espanhol e alemão
+Iniciante em italiano 
+Já cursei design gráfico profissional e no momento estou cursando o tecnólogo de Marketing na Universidade de Caxias do Sul e estou participando da primeira edição do Despertar.dev da Growdev com o Sicredi.</p>
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.pinimg.com/564x/9d/d3/f7/9dd3f733c9b1538c9c30a27ccda99370.jpg" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>

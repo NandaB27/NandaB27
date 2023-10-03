@@ -47,7 +47,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/564x/63/5b/f9/635bf9d4e900d12ceab39341091f3181.jpg" align="right">
+<img src="https://i.pinimg.com/564x/63/5b/f9/635bf9d4e900d12ceab39341091f3181.jpg" align="right" width="373.5px" height="208.5px>
   </div>
 </div>
 <div>

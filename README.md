@@ -64,7 +64,7 @@ Já cursei design gráfico profissional e no momento estou cursando o tecnólogo
   </div>
 <br>
 <p align="center">Aqui estão algumas das minhas redes sociais! <3</p>
-  Em construção! ;-;
+  Em construção!
 </div>
 <br>
 <div>

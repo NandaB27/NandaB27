@@ -70,7 +70,7 @@ Já cursei design gráfico profissional e no momento estou cursando o tecnólogo
 <div>
 <h2 align="center">🤍 ~ 𝒪𝒷𝓇𝒾𝑔𝒶𝒹𝑜 𝓅𝑜𝓇 𝓁𝑒𝓇 𝒶𝓉𝑒 𝒶𝓆𝓊𝒾! ~ 🤍</h2>
 <div align="center">
-<img src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
+<img src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg" width="373.5px" height="208.5px">
 </div>
 <hr>
 </div>

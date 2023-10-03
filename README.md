@@ -20,32 +20,20 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://i.pinimg.com/564x/08/61/31/08613146423e4cfc451dbe7e9a35148e.jpg" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
+ <b>Name:</b> Nalanda</li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Hobbies:</b> ler, jogar e dormir <3
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
+<b>Pronomes:</b> ela/dela
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
-</li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Formação:</b> Ensino médio completo e superior em andamento <3
 </li>
-<li>
-<b>LastFM:</b> https://scrobble.egirldev.co.uk
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
-<br><br><br>
+<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
@@ -75,7 +63,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
 </div>
 <hr>
 </div>
@@ -84,7 +72,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </body>
 <h1> Oi! Eu sou a Nalanda! ♡ ୨୧ @NandaB27 </h1>
 <h3>Sou uma dev em desenvolvimento!</h3>
-<img align="center" src="https://i.pinimg.com/564x/af/44/a7/af44a7b26e36eb8f421fe514a6b709b7.jpg">
 <img align="center" src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
 
 

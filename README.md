@@ -20,7 +20,7 @@
 <div>
 <h2 align="center"> 💐 ~ 𝒮𝑜𝒷𝓇𝑒 𝓂𝒾𝓂 ~ 💐 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/814d25b98c68f5be9c5825cfb5267967/0e03880d26125a61-8a/s400x600/1d6f715e085f07f6ff57e00eb37f4c63c05247db.jpg" align="right">
+<img src="https://64.media.tumblr.com/814d25b98c68f5be9c5825cfb5267967/0e03880d26125a61-8a/s400x600/1d6f715e085f07f6ff57e00eb37f4c63c05247db.jpg" align="right" width="373.5px" height="208.5px">
   </div>
 <li>
  <b>Name:</b> Nalanda</li>
@@ -28,7 +28,7 @@
 <b>Hobbies:</b> ler, jogar e dormir <3
 </li>
 <li>
-<b>Pronomes:</b> ela/dela
+<b>Pronomes:</b> ela/dela ♡ ୨୧
 <li>
 <li>
 <b>Formação:</b> Ensino médio completo e superior em andamento <3
@@ -52,13 +52,12 @@ Intermediário em espanhol e alemão
 Iniciante em italiano 
 Já cursei design gráfico profissional e no momento estou cursando o tecnólogo de Marketing na Universidade de Caxias do Sul e estou participando da primeira edição do Despertar.dev da Growdev com o Sicredi.</p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ 𝑀𝒾𝓃𝒽𝒶𝓈 𝓇𝑒𝒹𝑒𝓈 𝓈𝑜𝒸𝒾𝒶𝒾𝓈 ~ 📝</h2>
   <div align="center">
 <img src="https://i.pinimg.com/564x/9d/d3/f7/9dd3f733c9b1538c9c30a27ccda99370.jpg" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+<p align="center">Aqui estão algumas das minhas redes sociais! <3</p>
 <p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
@@ -72,29 +71,3 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
     </center>
 </body>
-<h1> Oi! Eu sou a Nalanda! ♡ ୨୧ @NandaB27 </h1>
-<h3>Sou uma dev em desenvolvimento!</h3>
-<img align="center" src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
-
-
-<p align="center">
-
-- **Hobbies**:
-  Ler, jogar e codar <3
-<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
-
-
-<!--
-**NandaB27/NandaB27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

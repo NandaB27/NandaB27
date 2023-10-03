@@ -18,7 +18,7 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 💐 ~ 𝒮𝑜𝒷𝓇𝑒 𝓂𝒾𝓂 ~ 💐 </h2>
   <div align="center">
 <img src="https://64.media.tumblr.com/814d25b98c68f5be9c5825cfb5267967/0e03880d26125a61-8a/s400x600/1d6f715e085f07f6ff57e00eb37f4c63c05247db.jpg" align="right">
   </div>

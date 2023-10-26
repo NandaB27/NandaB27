@@ -57,7 +57,7 @@ Intermediário em espanhol e alemão
 Iniciante em italiano 
 Já cursei design gráfico profissional e no momento estou cursando o tecnólogo de Marketing na Universidade de Caxias do Sul e estou participando da primeira edição do Despertar.dev da Growdev com o Sicredi.</p>
 <br>
-<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
+<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj" align = "left">
 <h2 align="center">           📝 ~ 𝑀𝒾𝓃𝒽𝒶𝓈 𝓇𝑒𝒹𝑒𝓈 𝓈𝑜𝒸𝒾𝒶𝒾𝓈 ~ 📝</h2>
   <div align="center">
 <img src="https://i.pinimg.com/564x/9d/d3/f7/9dd3f733c9b1538c9c30a27ccda99370.jpg" align="right" width="373.5px" height="208.5px">

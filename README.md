@@ -39,7 +39,7 @@
 <li>
 <b>Linguagem de Programação favorita:</b> Python <3
 </li>
-<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj" align="center">
+<img src="https://64.media.tumblr.com/697444cb2a23d2ac7b6ade664459f75c/46c1c90b6f691c5d-f8/s1280x1920/173d870df6e4e3a00533780998ff8807190130c0.pnj">
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝒞𝑜𝓃𝒽𝑒𝒸𝒾𝓂𝑒𝓃𝓉𝑜𝓈 📇 ~</h2>
